@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "bWozJyIS4FOwpLqQgm8nUnIRm/GlU4m5oyvKDtTGKMo=",
+  "Source": "ProjWebLHPetsVer1",
+  "BasePath": "_content/ProjWebLHPetsVer1",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProjWebLHPetsVer1\\wwwroot",
+      "Source": "ProjWebLHPetsVer1",
+      "ContentRoot": "C:\\Users\\neo\\Documents\\Dev\\Senai\\BackEnd\\ProjWebLHPetsVer1\\wwwroot\\",
+      "BasePath": "_content/ProjWebLHPetsVer1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\neo\\Documents\\Dev\\Senai\\BackEnd\\ProjWebLHPetsVer1\\wwwroot\\index.html",
+      "SourceId": "ProjWebLHPetsVer1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\neo\\Documents\\Dev\\Senai\\BackEnd\\ProjWebLHPetsVer1\\wwwroot\\",
+      "BasePath": "_content/ProjWebLHPetsVer1",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

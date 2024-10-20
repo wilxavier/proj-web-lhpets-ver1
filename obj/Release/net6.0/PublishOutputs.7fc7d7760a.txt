@@ -1,0 +1,13 @@
+C:\Users\neo\Documents\Dev\Senai\BackEnd\ProjWebLHPetsVer1\bin\Release\net6.0\publish\ProjWebLHPetsVer1.exe
+C:\Users\neo\Documents\Dev\Senai\BackEnd\ProjWebLHPetsVer1\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\neo\Documents\Dev\Senai\BackEnd\ProjWebLHPetsVer1\bin\Release\net6.0\publish\appsettings.json
+C:\Users\neo\Documents\Dev\Senai\BackEnd\ProjWebLHPetsVer1\bin\Release\net6.0\publish\ProjWebLHPetsVer1.dll
+C:\Users\neo\Documents\Dev\Senai\BackEnd\ProjWebLHPetsVer1\bin\Release\net6.0\publish\ProjWebLHPetsVer1.deps.json
+C:\Users\neo\Documents\Dev\Senai\BackEnd\ProjWebLHPetsVer1\bin\Release\net6.0\publish\ProjWebLHPetsVer1.runtimeconfig.json
+C:\Users\neo\Documents\Dev\Senai\BackEnd\ProjWebLHPetsVer1\bin\Release\net6.0\publish\ProjWebLHPetsVer1.pdb
+C:\Users\neo\Documents\Dev\Senai\BackEnd\ProjWebLHPetsVer1\bin\Release\net6.0\publish\System.Data.SqlClient.dll
+C:\Users\neo\Documents\Dev\Senai\BackEnd\ProjWebLHPetsVer1\bin\Release\net6.0\publish\runtimes\win-arm64\native\sni.dll
+C:\Users\neo\Documents\Dev\Senai\BackEnd\ProjWebLHPetsVer1\bin\Release\net6.0\publish\runtimes\win-x64\native\sni.dll
+C:\Users\neo\Documents\Dev\Senai\BackEnd\ProjWebLHPetsVer1\bin\Release\net6.0\publish\runtimes\win-x86\native\sni.dll
+C:\Users\neo\Documents\Dev\Senai\BackEnd\ProjWebLHPetsVer1\bin\Release\net6.0\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\neo\Documents\Dev\Senai\BackEnd\ProjWebLHPetsVer1\bin\Release\net6.0\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
