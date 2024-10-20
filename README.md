@@ -7,7 +7,7 @@ Este projeto implementa o backend de uma loja de pets, utilizando as tecnologias
 * **[Outras funcionalidades serão implementadas]**
 
 ## Tecnologias Utilizadas
-* **C# .NET 6.0 Base do sistema.
+* **C# .NET 6.0.427 Base do sistema.
 * **SQL Server:** Banco de dados relacional para armazenamento de dados.
 
 
